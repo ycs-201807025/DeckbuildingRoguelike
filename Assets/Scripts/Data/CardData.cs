@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "NewCard", menuName = "Game/Card Data")]
-public class CardData : MonoBehaviour
+public class CardData : ScriptableObject
 {
     [Header("Basic Info")]
     public string cardID;

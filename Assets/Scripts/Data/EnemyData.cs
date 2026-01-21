@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "NewEnemy", menuName = "Game/Enemy Data")]
-public class EnemyData : MonoBehaviour
+public class EnemyData : ScriptableObject
 {
     [Header("Basic Info")]
     public string enemyID;

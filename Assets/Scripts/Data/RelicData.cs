@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "NewRelic", menuName = "Game/Relic Data")]
-public class RelicData : MonoBehaviour
+public class RelicData : ScriptableObject
 {
     [Header("Basic Info")]
     public string relicID;
