@@ -596,7 +596,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1258638687}
   m_Layer: 5
-  m_Name: TownUI
+  m_Name: ---TownUI---
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
