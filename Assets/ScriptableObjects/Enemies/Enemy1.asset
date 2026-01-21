@@ -12,12 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 702c561b5069e26469df450376d03367, type: 3}
   m_Name: Enemy1
   m_EditorClassIdentifier: 
-  enemyID: 
-  enemyName: 
-  maxHP: 0
-  attackDamage: 0
+  enemyID: Enemy1
+  enemyName: "\uC8011"
+  maxHP: 15
+  attackDamage: 5
   defense: 0
-  actionPattern: []
-  goldDrop: 0
+  actionPattern:
+  - actionType: 0
+    value: 5
+    weight: 1
+  goldDrop: 10
   enemyPrefab: {fileID: 0}
   enemySprite: {fileID: 0}

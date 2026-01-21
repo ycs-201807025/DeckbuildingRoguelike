@@ -12,15 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e83a3284407ece94781181d5df4735ed, type: 3}
   m_Name: NewCard 1
   m_EditorClassIdentifier: 
-  cardID: 
-  cardName: 
-  description: 
+  cardID: Warrior_Sheild
+  cardName: "\uBC29\uD328\uB4E4\uAE30"
+  description: "\uBC29\uD328\uB97C \uC62C\uB824 3\uC758\uC274\uB4DC\uB97C \uC5BB\uC5B4
+    \uACF5\uACA9\uC744 \uB9C9\uC2B5\uB2C8\uB2E4"
   cardClass: 0
-  cardType: 0
-  cost: 0
+  cardType: 1
+  cost: 1
   rarity: 0
-  baseValue: 0
-  upgradedValue: 0
+  baseValue: 3
+  upgradedValue: 5
   effects: []
   artwork: {fileID: 0}
   frameColor: {r: 1, g: 1, b: 1, a: 1}
