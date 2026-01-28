@@ -221,6 +221,7 @@ GameObject:
   - component: {fileID: 6118495243007660811}
   - component: {fileID: 3613601943540936648}
   - component: {fileID: 8251887611501389471}
+  - component: {fileID: 6105205874525685121}
   m_Layer: 5
   m_Name: Card
   m_TagString: Untagged
@@ -290,6 +291,19 @@ MonoBehaviour:
   upgradeIcon: {fileID: 8799554189983282826}
   hoverScale: 1.2
   animationSpeed: 10
+--- !u!114 &6105205874525685121
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4364602986362090867}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4feb2d266d11a5545baaf08c1c8ea9f7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dragAlpha: 0.6
 --- !u!1 &4447161733260539681
 GameObject:
   m_ObjectHideFlags: 0
